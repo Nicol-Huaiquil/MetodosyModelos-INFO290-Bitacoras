@@ -1,2 +1,2 @@
-# INFO290-Bitacora
-Bitacoras INFO290
+# INFO290-Bitacoras
+Asignatura métodos y modelos de ingeniería de software INFO290. 2023, noveno semestre.
